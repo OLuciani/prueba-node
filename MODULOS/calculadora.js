@@ -12,5 +12,5 @@ let calculadora = {
 
 module.exports = calculadora;
 
-let saludo = "HOLA MUNDO";
+let saludo = "HOLA A TODOS";
 console.log(saludo);
