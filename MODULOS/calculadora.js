@@ -14,3 +14,5 @@ module.exports = calculadora;
 
 let saludo = "HOLA A TODOS";
 console.log(saludo);
+
+let otroSaludo = "Buenas Noches";
